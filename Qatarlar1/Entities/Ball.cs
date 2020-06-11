@@ -11,7 +11,7 @@ namespace Qatarlar1.Entities
     public class Ball : GameEntity
     {
         public double Diameter { get; set; }
-
+        // // elə belə 
         public override void GameTick(double millisecondsElapsed)
         {
             Position = Position + Velocity * (float)millisecondsElapsed / 1000;

@@ -18,7 +18,7 @@ using System.Windows.Shapes;
 namespace Qatarlar1
 {
     /// <summary>
-    /// Interaktionslogik für MainWindow.xaml
+    /// Interaktionslogik für MainWindow.xaml 
     /// </summary>
     public partial class MainWindow : Window
     {
